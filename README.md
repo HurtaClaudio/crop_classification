@@ -1,7 +1,5 @@
 # Crop Classification with CNNs
 
-1. Description of the dataset
-
 Dataset contains 30 different types of crop images in separate folders
 
 Although the dataset is very well curated and preprocessed, it still pose a challenge since the number of categories is fairly elevated (30) and we only have around 800 images to work with
